@@ -1,0 +1,61 @@
+<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1464308373838">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="who-i-am-------------------02.css" crc="440531968" ref="who-i-am-------------------02"/>
+    <file name="index.css" crc="4017553208" ref="index"/>
+    <file name="contact-me---------------04.css" crc="394142244" ref="contact-me---------------04"/>
+    <file name="what-i-do-------------------03.css" crc="243099450" ref="what-i-do-------------------03"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:who-i-am-------------------02:what-i-do-------------------03:contact-me---------------04"/>
+    <file name="museutils.js" crc="3793461109" ref="index:who-i-am-------------------02:what-i-do-------------------03:contact-me---------------04"/>
+    <file name="webpro.js" crc="4263367560" ref="index"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:who-i-am-------------------02:what-i-do-------------------03:contact-me---------------04"/>
+  </folder>
+  <folder name="images">
+    <file name="img_3441.jpg" crc="3764848015" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="_mg_3873.jpg" crc="125219286" ref="index"/>
+    <file name="img_3907.jpg" crc="4090590715" ref="index"/>
+    <file name="dsc4382.jpg" crc="395015880" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u375-4.png" crc="482504402" ref="index"/>
+    <file name="u376-4.png" crc="3960667826" ref="index"/>
+    <file name="u378-4.png" crc="3826879679" ref="who-i-am-------------------02"/>
+    <file name="u379-4.png" crc="314595428" ref="who-i-am-------------------02"/>
+    <file name="u381-4.png" crc="4237858818" ref="who-i-am-------------------02"/>
+    <file name="u383-4.png" crc="119415381" ref="who-i-am-------------------02"/>
+    <file name="u388-10.png" crc="44546279" ref="who-i-am-------------------02"/>
+    <file name="u390-9.png" crc="60813132" ref="who-i-am-------------------02"/>
+    <file name="u391-23.png" crc="3842627322" ref="who-i-am-------------------02"/>
+    <file name="img_6181.jpg" crc="3819164943" ref="who-i-am-------------------02"/>
+    <file name="twitter-crop-u513.jpg" crc="225294708" ref="who-i-am-------------------02"/>
+    <file name="linkedin-crop-u511.jpg" crc="465035577" ref="who-i-am-------------------02"/>
+    <file name="facebook-crop-u509.jpg" crc="4152007875" ref="who-i-am-------------------02"/>
+    <file name="u456-4.png" crc="3826879679" ref="what-i-do-------------------03"/>
+    <file name="u457-4.png" crc="160795359" ref="what-i-do-------------------03"/>
+    <file name="u458-4.png" crc="3973651944" ref="what-i-do-------------------03"/>
+    <file name="u459-4.png" crc="119415381" ref="what-i-do-------------------03"/>
+    <file name="u464-7.png" crc="4089272355" ref="what-i-do-------------------03"/>
+    <file name="u467-8.png" crc="3836782479" ref="what-i-do-------------------03"/>
+    <file name="u473-10.png" crc="262709672" ref="what-i-do-------------------03"/>
+    <file name="twitter-crop-u533.jpg" crc="225294708" ref="what-i-do-------------------03"/>
+    <file name="linkedin-crop-u529.jpg" crc="465035577" ref="what-i-do-------------------03"/>
+    <file name="facebook-crop-u531.jpg" crc="4152007875" ref="what-i-do-------------------03"/>
+    <file name="u477-4.png" crc="3826879679" ref="contact-me---------------04"/>
+    <file name="u478-4.png" crc="3840388785" ref="contact-me---------------04"/>
+    <file name="u479-4.png" crc="4237858818" ref="contact-me---------------04"/>
+    <file name="u480-4.png" crc="3844792263" ref="contact-me---------------04"/>
+    <file name="u483-10.png" crc="4031901605" ref="contact-me---------------04"/>
+    <file name="twitter-crop-u487.jpg" crc="274443760" ref="contact-me---------------04"/>
+    <file name="linkedin-crop-u493.jpg" crc="81702263" ref="contact-me---------------04"/>
+    <file name="facebook-crop-u499.jpg" crc="80316118" ref="contact-me---------------04"/>
+  </folder>
+  <file name="index.html" crc="491219251" mt="1464299154762" redirect="true"/>
+  <file name="who-i-am-------------------02.html" crc="4285313811" mt="1464308227603" redirect="true"/>
+  <file name="what-i-do-------------------03.html" crc="358449162" mt="1464308321825" redirect="true"/>
+  <file name="contact-me---------------04.html" crc="4127073635" mt="1464308344718" redirect="true"/>
+</manifest>

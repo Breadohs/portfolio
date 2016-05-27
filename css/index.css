@@ -1,0 +1,146 @@
+.version.index /* version checker */
+{
+	color: #0000EF;
+	background-color: #76FF38;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1080px;
+	min-height: 638px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#slideshowu334
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 644px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -36px;
+	left: -100px;
+}
+
+#u342
+{
+	position: absolute;
+	width: 1280px;
+	height: 644px;
+	background-color: transparent;
+}
+
+#u342popup
+{
+	z-index: 3;
+}
+
+#u343
+{
+	z-index: 4;
+	width: 1280px;
+	height: 644px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u416
+{
+	z-index: 6;
+	width: 1280px;
+	height: 644px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u425
+{
+	z-index: 8;
+	width: 1280px;
+	height: 644px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u434
+{
+	z-index: 10;
+	width: 1280px;
+	height: 644px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u375-4
+{
+	z-index: 12;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 608px;
+}
+
+#u376-4
+{
+	z-index: 16;
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 608px;
+	left: 961px;
+}
+
+#u376-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 1080px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
